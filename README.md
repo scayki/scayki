@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Cayki
 
 🎓 Information Systems Student at the University of São Paulo (USP)  
-💻 Aspiring Full Stack Developer  
+💻 Aspiring AI Researcher 
 🚀 Currently focused on learning Artificial Intelligence (AI)  
 
 ---
